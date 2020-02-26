@@ -10,9 +10,19 @@
 {
     display: inline-block;
     text-align: center;
+    max-width: width 50px;
+    max-height: height 50px;
 
 }
-p
+
+.img1
 {
-    font: "Courgette" ;
+    height: 100px;
+    width: 100px;
+}
+
+.img2
+{
+    height: 100px;
+    width: 100px;
 }
