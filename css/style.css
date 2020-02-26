@@ -15,14 +15,17 @@
 
 }
 
-.img1
+.dice-image
 {
     height: 100px;
     width: 100px;
 }
 
-.img2
-{
-    height: 100px;
-    width: 100px;
+.score{
+    display: flex;
+    border-bottom: 2px solid black;
+    font-size: 1.5rem;
+    color: red;
+    justify-content: center;
 }
+
