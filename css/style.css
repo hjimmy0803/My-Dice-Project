@@ -1,18 +1,15 @@
 .container
 {
     text-align: center;
-    width: 1000px;
-    margin: 80px auto;
-    overflow: hidden;
+    width: 80%;
+    margin: 30px auto;
     
 }
 
 .dice
 {
-    display: flex;
+    display: inline-block;
     text-align: center;
-    height: 70px;
-    width: auto;
-    
+
 }
 
